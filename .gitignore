@@ -4,3 +4,4 @@ env/
 .git/
 *.db
 config.py
+logs/
